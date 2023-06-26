@@ -1,0 +1,29 @@
+.counter {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    padding: 0;
+}
+
+
+.buttons-counter {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+button {
+    background-color: black;
+    color: whitesmoke;
+    border: 1px;
+    font-size: xx-large;
+    user-select: none;
+  }
+
+  span {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  #session-label {
+    color: #4b0082;
+  }
