@@ -4,4 +4,4 @@ This is the __25 + 5 Clock__ project for the Freecodecamp Frontend Development L
 
 This is a React application
 
-[See the live site](https://meek-toffee-939910.netlify.app/)
+[See the live site](https://codepen.io/SoniaHiltner/pen/xxWXXrN?editors=0010)
